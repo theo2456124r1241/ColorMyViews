@@ -1,5 +1,4 @@
 /*Theodor*/
-
 package com.example.colormyviews
 
 import android.graphics.Color
